@@ -28,7 +28,6 @@ Publish the website in the given URL.
 ## PROGRAM :
 ~~~
 igallery.html
-igallery.html
 
 <!DOCTYPE html>
 <html lang="en">
